@@ -1,0 +1,2 @@
+# MajorPrivacy-Docs
+MajorPrivacy Documentation
