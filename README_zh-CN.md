@@ -1,4 +1,9 @@
 # MajorPrivacy-Docs
+
+<p align='center'>
+<a href='./README.md'>EN</a> | 中文
+</p>
+
 MajorPrivacy 文档
 
 这里是 HIPS [MajorPrivacy](https://github.com/xanasoft/MajorPrivacy) 的相关文档
