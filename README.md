@@ -1,4 +1,9 @@
 # MajorPrivacy-Docs
+
+<p align='center'>
+EN | <a href='./README_zh-CN.md'>中文</a>
+</p>
+
 MajorPrivacy Documentation
 
 This is the documents of HIPS [MajorPrivacy](https://github.com/xanasoft/MajorPrivacy)
