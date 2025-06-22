@@ -27,7 +27,7 @@ This section includes several sub-tabs.
 
 {3} Includes "Execution Monitor", which monitors which processes the instances of the relevant program item have launched, and which processes have launched them.
 
-{4} Includes "Entry Monitor", which monitors whether the instances of the relevant program item have attempted to access other processes, and whether other processes have attempted to access the relevant instances.
+{4} Includes "Entrance Monitor", which monitors whether the instances of the relevant program item have attempted to access other processes, and whether other processes have attempted to access the relevant instances.
 
 {5} Includes "Trace Log", where relevant logs will be displayed when users specifically set up to track the operations of a certain program item.
 
