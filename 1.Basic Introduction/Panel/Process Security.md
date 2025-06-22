@@ -32,4 +32,4 @@ This section includes several sub-tabs.
 {5} Includes "Trace Log", where relevant logs will be displayed when users specifically set up to track the operations of a certain program item.
 
 
-For the next panel see "Secure Enclave".
+For the next panel see <a href="./Secure Enclave.md">"Secure Enclave"</a>.
