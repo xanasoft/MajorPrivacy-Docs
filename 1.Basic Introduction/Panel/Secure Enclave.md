@@ -19,8 +19,8 @@ This section includes several sub-tabs.
 
 {2} Includes "Execution Monitor", which monitors which processes the instance of the relevant program item has launched, and which processes have launched it.
 
-{3} Includes "Entry Monitor", which monitors whether the instance of the relevant program item has attempted to access other processes, and whether other processes have attempted to access the relevant instance.
+{3} Includes "Entrance Monitor", which monitors whether the instance of the relevant program item has attempted to access other processes, and whether other processes have attempted to access the relevant instance.
 
 {4} Includes "Trace Log", where relevant logs will be displayed when users specifically set up to track the operations of a certain program item.
 
-For the next panel see <a href="./Access Protection.md">"Access Protection"</a>.
+For the next panel see <a href="./Resource Protection.md">"Resource Protection"</a>.
