@@ -4,4 +4,4 @@ In the current version of MajorPrivacy, the "Overview" panel is the default pane
 
 This panel typically consists entirely of a list box whose content users cannot modify. It contains log information from MP's own components and other sources.
 
-For the next panel see "Process Security".
+For the next panel see <a href='./Process Security.md'>Process Security</a>.
